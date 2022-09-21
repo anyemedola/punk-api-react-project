@@ -1,6 +1,6 @@
 import './style.css'
 import loginIMG from './assets/login.jpg'
-import { useState } from "react";
+import { useState } from "react"
 
 export function Login() {
 
@@ -48,3 +48,5 @@ export function Login() {
     )
 
 }
+
+export default Login;
